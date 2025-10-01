@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou Alexandre Bortone  
 
-<!--
-**alebortone/alebortone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do 3º período de **Sistemas de Informação** na UFLA  
+💡 Interesse em **Desenvolvimento de Software** e **Web**  
+🚀 Atualmente aprimorando conhecimentos em **C++**, **Java** e **Programação Orientada a Objetos**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias & Ferramentas
+- **Linguagens**: C++, Java  
+- **Conceitos**: Estruturas de Dados, POO, Algoritmos  
+- **Ferramentas**: Git & GitHub, Logisim  
+- **Futuro foco**: Desenvolvimento Web  
+
+---
+
+## 📊 Estatísticas
+![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrebortone&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrebortone&layout=compact&theme=tokyonight)  
+
+---
+
+## 🌱 Atualmente
+- Desenvolvendo projetos acadêmicos e pessoais para consolidar fundamentos  
+- Conectando teoria da universidade a aplicações práticas  
+- Explorando caminhos para atuar em **desenvolvimento de software** e **soluções web**  
+
+---
+
+## 📫 Conecte-se comigo
+[LinkedIn](https://www.linkedin.com) | [Email](mailto:seuemail@email.com)
+
+---
+
+✨ Sempre aberto a aprender, evoluir e compartilhar conhecimento!
