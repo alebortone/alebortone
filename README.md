@@ -14,12 +14,6 @@
 
 ---
 
-## 📊 Estatísticas
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrebortone&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrebortone&layout=compact&theme=tokyonight)  
-
----
-
 ## 🌱 Atualmente
 - Desenvolvendo projetos acadêmicos e pessoais para consolidar fundamentos  
 - Conectando teoria da universidade a aplicações práticas  
@@ -28,7 +22,7 @@
 ---
 
 ## 📫 Conecte-se comigo
-[LinkedIn](https://www.linkedin.com) | [Email](mailto:seuemail@email.com)
+[LinkedIn](https://www.linkedin.com) | [Email](mailto:seuemail@email.com) | [Instagram](https://www.instagram.com/alebortone_/)
 
 ---
 
