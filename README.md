@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Alexandre Bortone  
 
-🎓 Estudante do 3º período de **Sistemas de Informação** na UFLA  
+🎓 Estudante do 4º período de **Sistemas de Informação** na UFLA  
 💡 Interesse em **Desenvolvimento de Software** e **Web**  
 🚀 Atualmente aprimorando conhecimentos em **C++**, **Java** e **Programação Orientada a Objetos**  
 
