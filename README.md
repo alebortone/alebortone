@@ -7,7 +7,7 @@
 ---
 
 ## 🔧 Tecnologias & Ferramentas
-- **Linguagens**: C++, Java  
+- **Linguagens**: C++, Java, Python  
 - **Conceitos**: Estruturas de Dados, POO, Algoritmos  
 - **Ferramentas**: Git & GitHub, Logisim  
 - **Futuro foco**: Desenvolvimento Web  
